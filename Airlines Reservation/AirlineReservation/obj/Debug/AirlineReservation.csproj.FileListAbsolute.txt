@@ -1,0 +1,9 @@
+C:\SEMESTER-2\c# 2\Psoni_Assignment1\AirlineReservation\bin\Debug\AirlineReservation.exe.config
+C:\SEMESTER-2\c# 2\Psoni_Assignment1\AirlineReservation\bin\Debug\AirlineReservation.exe
+C:\SEMESTER-2\c# 2\Psoni_Assignment1\AirlineReservation\bin\Debug\AirlineReservation.pdb
+C:\SEMESTER-2\c# 2\Psoni_Assignment1\AirlineReservation\obj\Debug\AirlineReservation.csprojAssemblyReference.cache
+C:\SEMESTER-2\c# 2\Psoni_Assignment1\AirlineReservation\obj\Debug\AirlineReservation.AirlineReservation.resources
+C:\SEMESTER-2\c# 2\Psoni_Assignment1\AirlineReservation\obj\Debug\AirlineReservation.Properties.Resources.resources
+C:\SEMESTER-2\c# 2\Psoni_Assignment1\AirlineReservation\obj\Debug\AirlineReservation.csproj.GenerateResource.cache
+C:\SEMESTER-2\c# 2\Psoni_Assignment1\AirlineReservation\obj\Debug\AirlineReservation.exe
+C:\SEMESTER-2\c# 2\Psoni_Assignment1\AirlineReservation\obj\Debug\AirlineReservation.pdb
