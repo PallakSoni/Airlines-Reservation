@@ -1,17 +1,17 @@
 # Airlines-Reservation
 
------------------------------------------------- # About The Project ---------------------------------------------------------------------
+ # About The Project 
 
 * Application that helps the user to select the seat and reserve it under their name.
 * It is design in such a way to simplify the reservation process easy for the users. 
 * It can be used to the management as well to put the people on the waiting list of the booking is totally full
 
---------------------------------------------------- # Built With -------------------------------------------------------------------------
+ # Built With
 
 These project used Basic HTML but it is made up of core object oriented programming Language C# Windows Application
 
 
-------------------------------------------------- # Getting Started ---------------------------------------------------------------------
+ # Getting Started 
 
 # Installation:
 
