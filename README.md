@@ -15,9 +15,9 @@ These project used Basic HTML but it is made up of core object oriented programm
 
 # Installation:
 
-1. Get free API key at 
+1. Get free API key at https://github.com/PallakSoni/Airlines-Reservation/commits/dev
 2. Clone the repo
-   git clone https://github.com/
+   git clone https://github.com/PallakSoni/Airlines-Reservation/commits/dev
    
  # OR 
  
