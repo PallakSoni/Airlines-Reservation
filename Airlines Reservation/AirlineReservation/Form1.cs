@@ -146,7 +146,7 @@ namespace AirlineReservation
                 {
                     booking[row, col] = null;
                     lblOutput.Text = "SUCCESS: Reservation Cancelled!";
-                    seatButton.BackColor = Color.LightGray;
+                    seatButton.BackColor = Color.LightBlue;
                     txtName.Text = "";
                     seatButton.Checked = false;
                     seatButton = null;
