@@ -109,6 +109,7 @@
             this.pnlSeats.Name = "pnlSeats";
             this.pnlSeats.Size = new System.Drawing.Size(242, 233);
             this.pnlSeats.TabIndex = 0;
+            this.pnlSeats.Paint += new System.Windows.Forms.PaintEventHandler(this.pnlSeats_Paint);
             // 
             // rdbD5
             // 
@@ -442,6 +443,7 @@
             // 
             // grpboxBookCancel
             // 
+            this.grpboxBookCancel.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.grpboxBookCancel.Controls.Add(this.lblOutput);
             this.grpboxBookCancel.Controls.Add(this.btnDebug);
             this.grpboxBookCancel.Controls.Add(this.btnAddWaitingList);
@@ -545,6 +547,7 @@
             // 
             // txtShowAllSeats
             // 
+            this.txtShowAllSeats.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.txtShowAllSeats.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtShowAllSeats.Location = new System.Drawing.Point(72, 291);
             this.txtShowAllSeats.Multiline = true;
@@ -556,6 +559,7 @@
             // 
             // txtshowWaitingList
             // 
+            this.txtshowWaitingList.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.txtshowWaitingList.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtshowWaitingList.Location = new System.Drawing.Point(402, 292);
             this.txtshowWaitingList.Multiline = true;
@@ -569,6 +573,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ButtonShadow;
             this.ClientSize = new System.Drawing.Size(800, 499);
             this.Controls.Add(this.txtshowWaitingList);
             this.Controls.Add(this.txtShowAllSeats);

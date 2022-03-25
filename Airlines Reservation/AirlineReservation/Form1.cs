@@ -33,7 +33,9 @@ namespace AirlineReservation
             {"Osazee Atekha","Bhavya pancholi","Owen Towriss","Nathan Towriss" }
             ,{"Noopur Patel","Ariel Palubaski","Asif Khan","Dylan Dong" },
             { "Amanda Bunny","Angle Fisher","Cris Brown","Jeffrey List"},
-            {"Yash Patel","Celina Gomez","Lawren Strachen","Mani Tamang" }  };
+            {"Yash Patel","Celina Gomez","Lawren Strachen","Mani Tamang" }  
+        };
+        
         public AirlineReservation()
         {
             InitializeComponent();
@@ -74,6 +76,7 @@ namespace AirlineReservation
                 else
                 {
                     lblOutput.Text = "ERROR: Requested seat is already Occupied";
+                    
                 }
             }
             else
@@ -337,6 +340,11 @@ namespace AirlineReservation
                     booking[row, col] = debugNames[row, col];
                 }
             }
+        }
+
+        private void pnlSeats_Paint(object sender, PaintEventArgs e)
+        {
+            pnlSeats.BackColor = Color.LightSlateGray;
         }
 
        
